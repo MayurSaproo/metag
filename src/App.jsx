@@ -156,7 +156,7 @@ export default function App() {
         <h2 className="text-4xl md:text-5xl font-black text-white mb-10 tracking-tight">About METAGER</h2>
         <div className="prose prose-lg prose-invert text-gray-400 mb-16">
           <p className="text-lg md:text-xl leading-relaxed mb-8">
-            METAG is a premium tool built to help developers and marketers visualize how their web pages will appear across different social media platforms and search engines before deploying to production.
+            METAGER is a premium tool built to help developers and marketers visualize how their web pages will appear across different social media platforms and search engines before deploying to production.
           </p>
           <h3 className="text-2xl font-bold text-white mt-12 mb-6 border-b border-gray-800 pb-2">Technology Stack</h3>
           <ul className="space-y-4 mb-8 text-base md:text-lg">
