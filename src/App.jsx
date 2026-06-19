@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 const BrandLogo = ({ onClick, isSidebar = false }) => (
   <div className={`flex items-center cursor-pointer group flex-wrap gap-2 ${isSidebar ? 'space-x-2' : 'space-x-4'}`} onClick={onClick}>
     <span className={`font-black tracking-tighter text-transparent bg-clip-text bg-linear-to-r from-white to-gray-500 drop-shadow-lg ${isSidebar ? 'text-2xl' : 'text-3xl'}`}>
-      METAG
+      METAGER
     </span>
     <a 
       href="https://digitalheroesco.com" 
