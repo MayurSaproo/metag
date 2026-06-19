@@ -153,7 +153,7 @@ export default function App() {
       <div className="absolute top-0 right-0 w-125 h-125 bg-blue-900/10 rounded-full blur-[150px] pointer-events-none"></div>
       <NavBar />
       <div className="grow max-w-3xl mx-auto py-20 px-6 w-full relative z-10">
-        <h2 className="text-4xl md:text-5xl font-black text-white mb-10 tracking-tight">About METAG</h2>
+        <h2 className="text-4xl md:text-5xl font-black text-white mb-10 tracking-tight">About METAGER</h2>
         <div className="prose prose-lg prose-invert text-gray-400 mb-16">
           <p className="text-lg md:text-xl leading-relaxed mb-8">
             METAG is a premium tool built to help developers and marketers visualize how their web pages will appear across different social media platforms and search engines before deploying to production.
